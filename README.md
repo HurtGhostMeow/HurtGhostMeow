@@ -1,6 +1,6 @@
 <div align="center">
 
-# [HurtGhostMeow （网站尚未完成）](https://hurtghostmeow.eu.com/)
+# [HurtGhostMeow （网站尚未完成）](https://hurtghostmeow.eu.org/)
 ### 一名平平无奇的高中牲
 ##### 勉強ing
 ### 喜欢猫猫
