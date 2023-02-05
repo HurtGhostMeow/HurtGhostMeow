@@ -6,5 +6,3 @@
 ### 喜欢猫猫
 
 ![](https://github-readme-stats.vercel.app/api?username=HurtGhostMeow)
-
-[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
