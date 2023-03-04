@@ -4,15 +4,13 @@
   
 <div align="left">
 
-
+![](https://github-readme-stats.vercel.app/api?username=HurtGhostMeow)
   
 <div align="right">
   
 <font color=#a6a5c4> **只是一名平平无奇的高中牲です** </font>
 ##### 勉強ing
 **喜欢猫猫🐱(猫猫贴贴)**
-
-![](https://github-readme-stats.vercel.app/api?username=HurtGhostMeow)
 
 <div align="left">
   
