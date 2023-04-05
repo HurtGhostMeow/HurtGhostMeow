@@ -25,5 +25,3 @@
 1. [🌐 莱茵音乐WEB端 *RhineMusic_WEB*](https://github.com/HurtGhostMeow/RhineMusic-WEB)
 2. 💾 莱茵音乐客户端 *RhineMusic_APP*
 3. [🌐 个人主页](https://hgmeow.eu.org/)
-
-<img align='left' src="img1.jpg" width="400"/>
