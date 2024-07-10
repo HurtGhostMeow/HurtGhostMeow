@@ -2,9 +2,7 @@
   
 # 有朋自远方来，不亦乐乎   
   
-# *WELCOME TO*
-  
-# [🐱☕🍉HurtGhostMeow的小站 （网站尚未完成）🍨🍜🧋](https://hurtghostmeow.eu.org/)
+# *WELCOME*
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=HurtGhostMeow" width="400"/>
   
@@ -22,4 +20,4 @@
   
 # ☑️ ToDo
 
-开摆了
+高三了，开摆了
