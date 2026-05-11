@@ -25,14 +25,6 @@
 
 ---
 
-## 🛠️ 正在使用的武器库 / Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,ts,react,vue,python&perline=10" />
-</div>
-
----
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/HurtGhostMeow/HurtGhostMeow/main/github-contribution-grid-snake.svg" alt="snake" />
 </div>
