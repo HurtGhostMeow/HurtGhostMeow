@@ -1,35 +1,32 @@
 <div align="center">
 
-# 🐱 有朋自远方来，不亦乐乎
+<img src="./assets/vfd-header.svg" width="100%" alt="HurtGhostMeow 粉色 VFD 点阵屏" />
 
-<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Welcome%20to%20HurtGhostMeow's%20Garden&fontSize=40&animation=fadeIn" width="100%" />
+**软乎乎的猫猫，和偶尔冒出来的奇怪思想火花。**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78C6C&width=435&lines=软乎乎的猫猫~~~贴贴~~~;正在努力修炼中...;勉強ing...;很高兴遇见你！)](https://git.io/typing-svg)
+[GitHub](https://github.com/HurtGhostMeow) · [哔哩哔哩](https://space.bilibili.com/403101742) · [X](https://x.com/HurtGhostMeow) · [Email](mailto:HurtGhostMeow1@outlook.com)
 
 </div>
 
-## 💫 关于我 / About Me
+### 关于我
 
-- 🐱 **猫猫至上主义**：梦想是沉溺在软乎乎的猫猫堆里。
-- 📖 **状态**：`勉強ing` (正在努力学习新知识中...)
-- 🌈 **特质**：热爱生活中的小细节，喜欢探索有趣的开源项目。
+大湾区大学首届本科生，通信工程专业。大湾区大学机器人社团「驭浪者战队」硬件电路部部长，「能工智人」兴趣小组主要成员之一。
 
----
+- 喜欢硬件电路设计和制作小玩意，正在朝芯片设计方向学习。
+- 用 Vibe Coding 把脑子里的点子变成可以玩的东西。
+- 正在学习板绘、贝斯，以及如何被更多猫猫包围。勉強ing…
 
-## 📊 我的 GitHub 统计
+### 正在发光的记录
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HurtGhostMeow&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HurtGhostMeow&layout=compact&theme=vue-dark&hide_border=true" width="40%" />
-</div>
+<img src="./assets/vfd-contributions.svg" width="100%" alt="粉色 VFD 贡献日历：每个像素代表一天，越亮表示当天 GitHub 贡献越多。" />
 
----
+每一天是一颗像素，慢慢把屏幕点亮。GitHub Actions 每日刷新；采用 GitHub 贡献日历口径，包含符合条件的提交、Issue、PR 等活动。
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/HurtGhostMeow/HurtGhostMeow/main/github-contribution-grid-snake.svg" alt="snake" />
-</div>
+### 做过的小世界
 
-<div align="center">
-  <p>💡 <i>"生活就像猫，你得温柔地对待它。"</i></p>
-  <img src="https://komarev.com/ghpvc/?username=HurtGhostMeow&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
-</div>
+| 项目 | 简介 | 入口 |
+| --- | --- | --- |
+| **3D 扫雷** | 大一上计科导期末个人作品，把模块化思维、比特精准与无缝衔接放进三维雷区。 | [体验](https://3dminesweeper.hgmeow.eu.org) · [源码](https://github.com/HurtGhostMeow/3D-Minesweeper) |
+| **织芯 · The Fabric** | 大一下计科导期末小组作品，面向数字电路教学与协作的全栈网页游戏，包含游戏、论坛与 AI 助手。 | [体验](https://fabric.hgmeow.eu.org) |
+
+<div align="center"><sub>生活就像猫，你得温柔地对待它。</sub></div>

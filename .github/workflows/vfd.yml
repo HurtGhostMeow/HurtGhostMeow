@@ -1,0 +1,31 @@
+name: Refresh pink VFD
+on:
+  schedule:
+    - cron: '23 2 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['scripts/generate-vfd.mjs', '.github/workflows/vfd.yml']
+permissions:
+  contents: write
+concurrency:
+  group: vfd-refresh
+  cancel-in-progress: false
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - run: node scripts/generate-vfd.mjs
+      - name: Save refreshed display
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/*.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh pink VFD contributions"
+            git push
+          fi
